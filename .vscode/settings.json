@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/25b76ccd-57cc-46a4-9bdc-91ba167a1afe/AppServices/subscriptions/25b76ccd-57cc-46a4-9bdc-91ba167a1afe/resourceGroups/stosbxarmrgp001/providers/Microsoft.Web/sites/DeleteMeDelete",
+    "appService.deploySubpath": "."
+}
